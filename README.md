@@ -50,6 +50,3 @@ PRs are welcome.
 2. Create a feature branch
 3. Commit your changes
 4. Open a pull request
-
-## License
-Add a license file (MIT/Apache-2.0/etc.) if you want others to reuse your code with clear terms.
